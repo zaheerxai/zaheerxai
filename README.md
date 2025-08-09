@@ -1,11 +1,10 @@
-# Hi, I'm Zaheer 👋
+# 👋 Hi, I'm Muhammad Zaheer
+**AI/ML Engineer in progress | MLops | Automation & Workflow Systems**
 
-**Computer Science | AI/ML | Automation | Backend | Process‑Driven Developer**
+Focused on building transparent, reproducible AI solutions — from model training to full automation.
 
 🎯 **About Me**  
-Computer science graduate building a career in AI automation and applied machine learning. My work focuses on designing clear, repeatable systems for technical, business, and simulation tasks,
-with an emphasis on accuracy and process integrity. I enjoy solving problems through a structured, modular approach and continuously refining workflows for efficiency. 
-Currently, I’m expanding my skills in Python, workflow automation, and vector databases while creating real-world projects to showcase on GitHub.
+Computer science graduate building a career in AI automation and applied machine learning. My work focuses on designing clear, repeatable systems for technical, business, and simulation tasks, with an emphasis on accuracy and process integrity. I enjoy solving problems through a structured, modular approach and continuously refining workflows for efficiency. Currently, I’m expanding my skills in Python, workflow automation, and vector databases while creating real-world projects to showcase on GitHub.
 <!-- Computer Science graduate with hands‑on experience in AI/ML, backend tools, and data processing. Skilled at designing **transparent, reproducible workflows** and building practical solutions from scratch.  
 I thrive on **structured problem‑solving**, turning complex requirements into reliable, maintainable systems. -->
 
